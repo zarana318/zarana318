@@ -1,72 +1,59 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║         Turning raw data into clear decisions            ║
-╚══════════════════════════════════════════════════════════╝
-```
+# Hi, I'm Zarana 👋
 
-# Zarana Solanki
-### Data Analyst · Python · SQL · Power BI · Excel · 🍁 Canada
+**Data Analyst** based in Canada 🍁 — I find patterns where others see noise.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=flat-square&logo=gmail)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
 </div>
 
 ---
 
-## `$ whoami`
+### A little about me
 
-```python
-zarana = {
-    "role"       : "Data Analyst",
-    "location"   : "Canada 🍁",
-    "currently"  : "Mastering Advanced SQL & building end-to-end dashboards",
-    "open_to"    : ["Full-time roles", "Freelance analytics projects"],
-    "superpower" : "Making messy data tell a clean story"
-}
-```
+I'm a data analyst who genuinely enjoys the moment when a messy spreadsheet becomes a story that drives a decision. I work with **Python, SQL, Power BI, and Excel** — not just to crunch numbers, but to ask better questions.
+
+Right now I'm deepening my SQL skills and exploring how data visualization can communicate faster than a written report ever could.
+
+I'm **open to opportunities in Canada** where data actually shapes what the team does next.
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages & Query**
-`Python` `SQL` `DAX`
-
-**BI & Visualization**
-`Power BI` `Excel` `Matplotlib` `Seaborn`
-
-**Libraries**
-`Pandas` `NumPy` `Jupyter`
-
-**Tools**
-`VS Code` `Git` `GitHub`
-
----
-
-## 📂 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🔍 **Project 1 Name** | Short description of what problem you solved | `Python` `Pandas` |
-| 📊 **Project 2 Name** | Short description of the analysis & outcome | `SQL` `Power BI` |
-
----
-
-## 📈 GitHub Stats
+### What I work with
 
 <div align="center">
 
-![Zarana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=0A66C2)
+| Analyze | Visualize | Build |
+|---------|-----------|-------|
+| Python · SQL | Power BI · Excel | Pandas · Matplotlib |
+| Advanced queries | Interactive dashboards | Jupyter notebooks |
 
 </div>
 
 ---
 
+### Projects I'm proud of
+
+**📌 Project 1 Name**
+> Short description — what was the data, what was the question, what did you find?
+`Python` `Pandas`
+
+**📌 Project 2 Name**
+> Short description — what decision did this analysis help make?
+`SQL` `Power BI`
+
+---
+
+### Currently
+
+- 🔍 Learning **Advanced SQL** — window functions, CTEs, query optimization
+- 📊 Building dashboards that non-technical stakeholders actually use
+- 🍁 Actively looking for data roles in Canada
+
+---
+
 <div align="center">
-<sub>Open to work in Canada · Data tells a story — I help you read it.</sub>
+<i>Data doesn't speak for itself — someone has to translate it. That's the part I love.</i>
 </div>
