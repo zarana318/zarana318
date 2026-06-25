@@ -1,51 +1,58 @@
 <div align="center">
 
-<br>
-
 # Zarana Solanki
+**Data Analyst · Canada 🍁**
 
-Data Analyst &nbsp;·&nbsp; Canada 🍁
+*I don't just analyze data — I make it actionable.*
 
-<br>
-
-`Python` &nbsp; `SQL` &nbsp; `Power BI` &nbsp; `Excel` &nbsp; `Pandas` &nbsp; `Matplotlib`
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
 </div>
 
-<br>
+---
+
+## What I do
+
+I work at the intersection of **data and decisions**.
+
+Give me a messy dataset, a vague business question, and a deadline — I'll give you clarity. My toolkit: Python, SQL, Power BI, Excel, Pandas, and Matplotlib. My goal: answers that actually get used.
 
 ---
 
-I turn raw data into decisions.
+## Projects
 
-Currently advancing in **Advanced SQL** and building analytics projects that go beyond charts — toward actual business answers.
+### 🔷 Project 1 Name
+What was the challenge? What did you build? What was the outcome?
+**Stack:** `Python` `Pandas` `Matplotlib`
 
-Open to **data analyst roles in Canada**.
-
----
-
-**Projects**
-
-- **Project 1 Name** — what it does, what it solves &nbsp; `Python` `Pandas`
-- **Project 2 Name** — what it does, what it solves &nbsp; `SQL` `Power BI`
+### 🔷 Project 2 Name
+What was the challenge? What did you build? What was the outcome?
+**Stack:** `SQL` `Power BI` `Excel`
 
 ---
 
-**Learning right now**
+## Skills at a glance
 
-- Advanced SQL (CTEs, window functions, query performance)
-- Data visualization best practices
-- Storytelling with data for non-technical audiences
+```
+Data Analysis    ████████████████████  Python · SQL · Excel
+Visualization    ████████████████░░░░  Power BI · Matplotlib · Seaborn
+Libraries        ███████████████░░░░░  Pandas · NumPy · Jupyter
+Currently        ████████████░░░░░░░░  Advanced SQL (in progress)
+```
+
+---
+
+## Right now
+
+- 📍 Based in Canada, open to analyst roles
+- 📚 Going deep on Advanced SQL
+- 🎯 Building projects that solve real problems, not just look good on a portfolio
 
 ---
 
 <div align="center">
-<br>
-<sub>If the data has a story, I'll find it.</sub>
-<br><br>
+
+**Data-driven. Detail-oriented. Ready to contribute.**
+
 </div>
